@@ -38,3 +38,4 @@ $ npm test
 * Add more tests, including around testing the `useFetchRooms` hook
 * Confirm styles across actual devices
 * Update some of the Rooms index for dealing with loading and error states better
+* Handle the checks in [`/features/rooms/index.jsx`](https://github.com/jmccraw/webook/blob/3aeb2d895cc67e299446cc19e5dd4b8d39c5153c/src/features/rooms/index.jsx#L26) better
