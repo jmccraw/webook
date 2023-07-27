@@ -35,5 +35,6 @@ $ npm test
 * When dealing with a real API, we'd probably need to have some `version` we include in the request to book a space so we can try to avoid data collisions
 * When making a booking, we would want to wait for a response confirming the transaction went through
   * In this implementation, we just maintain the data as it was first retrieved and don't really know what's happening in the backend since then
-* Add more tests
+* Add more tests, including around testing the `useFetchRooms` hook
 * Confirm styles across actual devices
+* Update some of the Rooms index for dealing with loading and error states better
