@@ -36,6 +36,6 @@ $ npm test
 * When making a booking, we would want to wait for a response confirming the transaction went through
   * In this implementation, we just maintain the data as it was first retrieved and don't really know what's happening in the backend since then
 * Add more tests, including around testing the `useFetchRooms` hook
-* Confirm styles across actual devices
+* Confirm styles across actual devices (missed a mobile one and for the `Cards` to be more fluid)
 * Update some of the Rooms index for dealing with loading and error states better
 * Handle the checks in [`/features/rooms/index.jsx`](https://github.com/jmccraw/webook/blob/3aeb2d895cc67e299446cc19e5dd4b8d39c5153c/src/features/rooms/index.jsx#L26) better
