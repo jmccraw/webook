@@ -1,0 +1,31 @@
+:root {
+  /* Sizes */
+  --body-padding: 30px 30px 60px;
+  --max-body-width: 1372px;
+  --button-height: 30px;
+  --button-width: 90px;
+
+  --border-radius: 11px;
+  --small-border-radius: 4px;
+
+  --max-header-width: 562px;
+  --max-card-width: 328px;
+  --max-card-image-height: 220px;
+
+  --horizontal-gap: 20px;
+  --vertical-gap: 60px;
+
+  --header-font-size: 36px;
+  --subheader-font-size: 20px;
+  --label-font-size: 18px;
+  --button-font-size: 12px;
+
+  /* Colors */
+  --black: #222;
+  --grey: #9a9a9a;
+  --plum: #9f0086;
+  --white: #fff;
+
+  /* Fonts */
+  --default-font: Helvetica, Arial, sans-serif;
+}
